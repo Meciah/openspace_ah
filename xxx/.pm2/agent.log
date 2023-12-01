@@ -1,0 +1,17 @@
+2023-11-25T18:34:21.459Z interactor:daemon MACHINE_NAME=DESKTOP-SIJSTGV-e61f
+2023-11-25T18:34:21.460Z interactor:daemon PUBLIC_KEY=ipc2c2c2swqo98y
+2023-11-25T18:34:21.460Z interactor:daemon ROOT_URL=https://root.keymetrics.io
+2023-11-25T18:34:21.460Z interactor:interface New transporter interface
+2023-11-25T18:34:21.460Z interactor:interface Bind [websocket] transport to transporter interface
+2023-11-25T18:34:21.475Z interactor:daemon [PM2 Agent] Launching agent
+2023-11-25T18:34:21.475Z interactor:daemon Launching Interactor RPC server (bind to \\.\pipe\interactor.sock)
+2023-11-25T18:34:21.969Z interactor:interface Connecting to: {"reverse":"https://freenode-1.keymetrics.io:43554","ws":"wss://freenode-1.keymetrics.io/interaction/public","push":"https://freenode-1.keymetrics.io:80","web":"https://freenode-1.keymetrics.io:443","realtime":"https://freenode-1.keymetrics.io:443"}
+2023-11-25T18:34:22.409Z interactor:reverse Reverse interactor is listening
+2023-11-25T18:34:22.410Z interactor:daemon Interactor daemon started
+2023-11-25T18:34:22.413Z interactor:pm2:interface PM2Interface instantiate
+2023-11-25T18:34:52.413Z interactor:daemon >> PM2 Watchdog started
+2023-11-25T18:34:52.413Z interactor:watchdog Launching
+2023-11-25T20:43:19.523Z interactor:daemon Shutdown request received via RPC
+2023-11-25T20:43:19.523Z interactor:daemon Exiting Interactor
+2023-11-25T20:43:19.523Z interactor:reverse Reverse interactor is no longer listening
+2023-11-25T20:43:19.524Z interactor:interface Disconnect all transporters

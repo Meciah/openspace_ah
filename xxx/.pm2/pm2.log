@@ -1,0 +1,135 @@
+2023-11-25T13:34:21: PM2 log: ===============================================================================
+2023-11-25T13:34:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-25T13:34:21: PM2 log: Time                 : Sat Nov 25 2023 13:34:21 GMT-0500 (Eastern Standard Time)
+2023-11-25T13:34:21: PM2 log: PM2 version          : 5.3.0
+2023-11-25T13:34:21: PM2 log: Node.js version      : 20.10.0
+2023-11-25T13:34:21: PM2 log: Current arch         : x64
+2023-11-25T13:34:21: PM2 log: PM2 home             : xxx/.pm2
+2023-11-25T13:34:21: PM2 log: PM2 PID file         : C:\Users\mecia\Desktop\openspace_reward_bot\wax-nftsale-bot\xxx\.pm2\pm2.pid
+2023-11-25T13:34:21: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-11-25T13:34:21: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-11-25T13:34:21: PM2 log: Application log path : C:\Users\mecia\Desktop\openspace_reward_bot\wax-nftsale-bot\xxx\.pm2\logs
+2023-11-25T13:34:21: PM2 log: Worker Interval      : 30000
+2023-11-25T13:34:21: PM2 log: Process dump file    : C:\Users\mecia\Desktop\openspace_reward_bot\wax-nftsale-bot\xxx\.pm2\dump.pm2
+2023-11-25T13:34:21: PM2 log: Concurrent actions   : 2
+2023-11-25T13:34:21: PM2 log: SIGTERM timeout      : 1600
+2023-11-25T13:34:21: PM2 log: ===============================================================================
+2023-11-25T13:35:55: PM2 log: App [npm-cli:0] starting in -fork mode-
+2023-11-25T13:35:55: PM2 log: App [npm-cli:0] online
+2023-11-25T13:36:01: PM2 log: App [npm-cli:0] exited with code [3221225786] via signal [SIGINT]
+2023-11-25T13:36:01: PM2 log: App [npm-cli:0] starting in -fork mode-
+2023-11-25T13:36:01: PM2 log: App [npm-cli:0] online
+2023-11-25T13:36:14: PM2 log: Stopping app:npm-cli id:0
+2023-11-25T13:36:14: PM2 log: App [npm-cli:0] exited with code [1] via signal [SIGINT]
+2023-11-25T13:36:14: PM2 log: pid=26260 msg=process killed
+2023-11-25T13:38:37: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T13:38:37: PM2 log: App [pm2-npm:1] online
+2023-11-25T13:39:39: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T13:39:39: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T13:39:40: PM2 log: pid=26504 msg=process killed
+2023-11-25T13:39:43: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T13:39:43: PM2 log: App [pm2-npm:0] online
+2023-11-25T13:40:55: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T13:40:55: PM2 log: App [pm2-npm:1] online
+2023-11-25T13:41:04: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T13:41:04: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T13:41:04: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T13:41:04: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T13:41:05: PM2 log: pid=20556 msg=process killed
+2023-11-25T13:41:05: PM2 log: pid=13000 msg=process killed
+2023-11-25T13:41:33: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T13:41:33: PM2 log: App [pm2-npm:0] online
+2023-11-25T15:43:36: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T15:43:36: PM2 log: App [pm2-npm:1] online
+2023-11-25T15:44:09: PM2 log: App [pm2-npm:2] starting in -fork mode-
+2023-11-25T15:44:09: PM2 log: App [pm2-npm:2] online
+2023-11-25T15:44:50: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T15:44:50: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T15:44:50: PM2 log: Stopping app:pm2-npm id:2
+2023-11-25T15:44:50: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T15:44:50: PM2 log: App [pm2-npm:2] exited with code [1] via signal [SIGINT]
+2023-11-25T15:44:50: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T15:44:50: PM2 log: pid=12584 msg=process killed
+2023-11-25T15:44:50: PM2 log: pid=22480 msg=process killed
+2023-11-25T15:44:50: PM2 log: pid=24332 msg=process killed
+2023-11-25T15:44:53: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T15:44:53: PM2 log: App [pm2-npm:0] online
+2023-11-25T15:45:07: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T15:45:07: PM2 log: App [pm2-npm:1] online
+2023-11-25T16:24:47: PM2 log: App [pm2-npm:2] starting in -fork mode-
+2023-11-25T16:24:47: PM2 log: App [pm2-npm:2] online
+2023-11-25T16:26:31: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T16:26:31: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T16:26:31: PM2 log: Stopping app:pm2-npm id:2
+2023-11-25T16:26:31: PM2 log: App [pm2-npm:2] exited with code [1] via signal [SIGINT]
+2023-11-25T16:26:31: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T16:26:31: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T16:26:31: PM2 log: pid=20660 msg=process killed
+2023-11-25T16:26:31: PM2 log: pid=20160 msg=process killed
+2023-11-25T16:26:31: PM2 log: pid=12172 msg=process killed
+2023-11-25T16:26:36: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T16:26:36: PM2 log: App [pm2-npm:0] online
+2023-11-25T16:26:39: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T16:26:39: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T16:26:39: PM2 log: pid=9568 msg=process killed
+2023-11-25T16:26:41: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T16:26:41: PM2 log: App [pm2-npm:0] online
+2023-11-25T16:26:46: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T16:26:46: PM2 log: App [pm2-npm:1] online
+2023-11-25T16:27:09: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T16:27:09: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T16:27:09: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T16:27:09: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T16:27:09: PM2 log: pid=28472 msg=process killed
+2023-11-25T16:27:09: PM2 log: pid=13276 msg=process killed
+2023-11-25T16:27:16: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T16:27:16: PM2 log: App [pm2-npm:0] online
+2023-11-25T16:27:21: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T16:27:21: PM2 log: App [pm2-npm:1] online
+2023-11-25T18:04:27: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T18:04:27: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T18:04:27: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T18:04:27: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T18:04:27: PM2 log: pid=27364 msg=process killed
+2023-11-25T18:04:27: PM2 log: pid=3948 msg=process killed
+2023-11-25T18:04:30: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T18:04:30: PM2 log: App [pm2-npm:0] online
+2023-11-25T18:04:34: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T18:04:34: PM2 log: App [pm2-npm:1] online
+2023-11-25T19:17:39: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T19:17:39: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T19:17:39: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T19:17:39: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T19:17:39: PM2 log: pid=30548 msg=process killed
+2023-11-25T19:17:39: PM2 log: pid=30228 msg=process killed
+2023-11-25T19:17:41: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T19:17:41: PM2 log: App [pm2-npm:0] online
+2023-11-25T19:17:44: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T19:17:44: PM2 log: App [pm2-npm:1] online
+2023-11-25T20:07:23: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T20:07:23: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T20:07:23: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T20:07:23: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T20:07:23: PM2 log: pid=28508 msg=process killed
+2023-11-25T20:07:23: PM2 log: pid=26216 msg=process killed
+2023-11-25T20:07:26: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T20:07:26: PM2 log: App [pm2-npm:0] online
+2023-11-25T20:07:32: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T20:07:32: PM2 log: App [pm2-npm:1] online
+2023-11-25T20:44:00: PM2 log: Stopping app:pm2-npm id:0
+2023-11-25T20:44:00: PM2 log: Stopping app:pm2-npm id:1
+2023-11-25T20:44:00: PM2 log: App [pm2-npm:0] exited with code [1] via signal [SIGINT]
+2023-11-25T20:44:00: PM2 log: App [pm2-npm:1] exited with code [1] via signal [SIGINT]
+2023-11-25T20:44:00: PM2 log: pid=13268 msg=process killed
+2023-11-25T20:44:00: PM2 log: pid=12820 msg=process killed
+2023-11-25T20:44:03: PM2 log: App [pm2-npm:0] starting in -fork mode-
+2023-11-25T20:44:03: PM2 log: App [pm2-npm:0] online
+2023-11-25T20:44:06: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T20:44:06: PM2 log: App [pm2-npm:1] online
+2023-11-25T23:29:55: PM2 log: App [pm2-npm:1] exited with code [1073807364] via signal [SIGINT]
+2023-11-25T23:29:55: PM2 log: App [pm2-npm:1] starting in -fork mode-
+2023-11-25T23:29:55: PM2 log: App [pm2-npm:1] online
+2023-11-25T23:29:55: PM2 log: App [pm2-npm:1] exited with code [3221226091] via signal [SIGINT]
+2023-11-25T23:29:55: PM2 error: Error caught while calling pidusage
+2023-11-25T23:29:55: PM2 error: Error: pidusage wmic command exited with code 3221225794
+2023-11-25T23:29:55: PM2 log: App [pm2-npm:1] starting in -fork mode-
